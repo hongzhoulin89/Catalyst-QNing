@@ -14,7 +14,7 @@ To run the example, download the folder **catalyst_v1** and in **Matlab** type:
 
 The default parameters are set as suggested by the theoretical analysis [1,2,3]; see ‘example’ for more details.
 
-## Paper 
+#### References 
 1. [A Universal Catalyst for First-Order Optimization](http://papers.nips.cc/paper/5928-a-universal-catalyst-for-first-order-optimization.pdf) H. Lin, J. Mairal, Z. Harchaoui
 
 2. [A Generic Quasi-Newton Algorithm
