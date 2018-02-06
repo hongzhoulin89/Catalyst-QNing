@@ -1,1 +1,1 @@
-Figures saved in this repertory
+Figures saved in this repository
