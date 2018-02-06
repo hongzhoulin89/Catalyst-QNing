@@ -1,1 +1,1 @@
-Output saved in this repertory
+Output saved in this repository
