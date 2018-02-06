@@ -22,3 +22,32 @@ for Faster Gradient-Based Optimization](https://arxiv.org/pdf/1610.00960.pdf) H.
 
 3. [Catalyst Acceleration for First-order Convex Optimization:
 from Theory to Practice](https://arxiv.org/pdf/1712.05654.pdf) H. Lin, J. Mairal, Z. Harchaoui
+
+#### References Bibtex 
+```
+1. @inproceedings{lin2015universal,
+  title={A universal catalyst for first-order optimization},
+  author={Lin, Hongzhou and Mairal, Julien and Harchaoui, Zaid},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={3384--3392},
+  year={2015}
+}
+
+2. @article{lin2016quickening,
+  title={A Generic Quasi-Newton Algorithm for Faster Gradient-Based Optimization},
+  author={Lin, Hongzhou and Mairal, Julien and Harchaoui, Zaid},
+  journal={arXiv preprint arXiv:1610.00960},
+  year={2016}
+}
+
+3. @article{2017arXiv171205654L,
+   author = {{Lin}, H. and {Mairal}, J. and {Harchaoui}, Z.},
+   title = "{Catalyst Acceleration for First-order Convex Optimization: from Theory to Practice}",
+   journal = {arXiv peprints  arXiv:1712.05654},
+   year={2017}
+}
+
+
+
+
+```
