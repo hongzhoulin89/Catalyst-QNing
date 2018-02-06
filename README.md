@@ -46,8 +46,4 @@ from Theory to Practice](https://arxiv.org/pdf/1712.05654.pdf) H. Lin, J. Mairal
    journal = {arXiv peprints  arXiv:1712.05654},
    year={2017}
 }
-
-
-
-
 ```
