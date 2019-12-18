@@ -27,8 +27,8 @@ function [r] = tworec(slist,ylist,rholist,q,r)
            q = q - alpha*ylist(:,k); 
        end
        
-       gamma = (slist(:,n_slist)'*ylist(:,n_ylist))/(ylist(:,n_ylist)'*ylist(:,n_ylist))
-       r = gamma*q
+       gamma = (slist(:,n_slist)'*ylist(:,n_ylist))/(ylist(:,n_ylist)'*ylist(:,n_ylist));
+       r = gamma*q;
        for i = 1:n_slist
            beta = rholist(i)*(ylist(:,i)'*r);
            r = r + (alphalist(i)-beta)*slist(:,i);
